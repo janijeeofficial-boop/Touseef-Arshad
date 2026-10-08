@@ -1,0 +1,8 @@
+{
+  "name": "Remix Intelligence Academy - Student Progress \u0026 Parent Portal",
+  "description": "Comprehensive academy management platform featuring student academic progress tracking, dedicated parent portal, fee management, and daily attendance notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
